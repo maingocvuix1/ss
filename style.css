@@ -1,0 +1,14 @@
+.image img{
+height: 300px;
+width: 100%;
+}
+.top{
+    background-color: aqua;
+    
+}
+.image{
+    background-color: white;
+margin-top: 20px;}
+.footer{
+    background-color: #17DCD5;
+}
